@@ -144,3 +144,6 @@ secrets:
     file: ./pwd_db_user.txt
   lb_install_pwd:
     file: ./pwd_lb_inst.txt
+
+networks:
+  mynet:
