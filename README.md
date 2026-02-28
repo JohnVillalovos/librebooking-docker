@@ -1,6 +1,6 @@
 # What is librebooking
 
-[Librebooking](https://github.com/librebooking/app) is a simple powerful
+[Librebooking](https://github.com/Librebooking/librebooking) is a simple powerful
 scheduling solution for any organization, forked from
 [Booked](https://www.bookedscheduler.com/).
 

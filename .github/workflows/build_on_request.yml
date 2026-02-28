@@ -5,7 +5,7 @@ on:
     inputs:
       appGitRefs:
         required: true
-        description: 'Librebooking/app version'
+        description: 'Librebooking/librebooking version'
         default: 'develop'
       imgBuild:
         required: true

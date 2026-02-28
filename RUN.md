@@ -6,7 +6,7 @@ It needs to be linked to a running MariaDB database container.
 ## Environment variables
 
 From version-3, this docker image makes full usage of the
-[environment variables override](https://github.com/LibreBooking/app/blob/develop/docs/source/BASIC-CONFIGURATION.rst).
+[environment variables override](https://github.com/LibreBooking/librebooking/blob/develop/docs/source/BASIC-CONFIGURATION.rst).
 
 ### Required variables
 
@@ -45,7 +45,7 @@ For instance:
 
 Several services in librebooking such as reminder emails require a job
 scheduler. For a full list of background jobs, checkout the
-[wiki](https://github.com/LibreBooking/app/wiki/Background-jobs)
+[wiki](https://github.com/LibreBooking/librebooking/wiki/Background-jobs)
 
 The background jobs can either be handled by the:
 
