@@ -62,7 +62,7 @@ RUN set -ex; \
     sed \
       -i /etc/apache2/ports.conf \
       -e 's/Listen 80/Listen 8080/' \
-      -e 's/Listen 443/Lisen 8443/'; \
+      -e 's/Listen 443/Listen 8443/'; \
     sed \
       -i /etc/apache2/sites-available/000-default.conf \
       -e 's/<VirtualHost *:80>/<VirtualHost *:8080>/';
